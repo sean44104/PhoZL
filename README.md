@@ -13,3 +13,9 @@ PhoZL is a version of the PhobGCCv2 PCB that makes 2 major changes
 2. the gold pads on the d-pad have been elongated so that the installation of tactile switches could be made easier
 
 In order to make these changes possible, the edge cuts and the tracks inside of the PCB have been modified; these changes are self evident.
+
+
+
+![PCB Front Render](https://raw.githubusercontent.com/sean44104/PhoZL/main/Images/image2.png)
+![PCB Back Render](https://raw.githubusercontent.com/sean44104/PhoZL/main/Images/image3.png)
+![PCB in KiCad](https://raw.githubusercontent.com/sean44104/PhoZL/main/Images/image1.png)
