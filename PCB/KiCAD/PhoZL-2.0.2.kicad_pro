@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.35,
-          "width": 2.0
+          "drill": 1.1,
+          "height": 1.7,
+          "width": 2.3
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -405,7 +405,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../../!!!!!kicad autorouting/PhobGCC_2_0_0_proto_1.dsn",
       "step": "PhobGCC_test.step",
       "vrml": ""
     },
