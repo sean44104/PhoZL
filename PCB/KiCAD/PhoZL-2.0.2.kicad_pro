@@ -405,7 +405,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "../../../../!!!!!kicad autorouting/PhobGCC_2_0_0_proto_1.dsn",
+      "specctra_dsn": "",
       "step": "PhobGCC_test.step",
       "vrml": ""
     },
