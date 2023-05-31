@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.35,
-          "width": 0.89
+          "height": 0.8,
+          "width": 0.8
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.25
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -354,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PhoZL-2.0.2.kicad_pro",
+    "filename": "PhoZL2.0.5.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -404,7 +404,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "specctra_dsn": "",
       "step": "PhobGCC_test.step",
       "vrml": ""

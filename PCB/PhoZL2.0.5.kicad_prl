@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdfcff_ffffffff",
+    "visible_layers": "ffffcff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "PhoZL-2.0.2.kicad_prl",
+    "filename": "PhoZL2.0.5.kicad_prl",
     "version": 3
   },
   "project": {
