@@ -1,0 +1,1 @@
+These are modified PhobGCC v0.29 firmware uf2s. They add functionality to the PhoZL's Z button and allow it to be any digital input you want it to be. Please pick whichever one you like!
