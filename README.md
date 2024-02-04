@@ -11,6 +11,8 @@ PhoZL is a version of the PhobGCCv2 PCB that adds a footprint for a left z butto
 
 In order to make these changes possible, the edge cuts and the tracks inside of the PCB have been modified; these changes are self evident.
 
+PCB Ordering Guide: https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Makers/Phob2_JLCPCB_Ordering_Guide.md
+
 
 
 ![PCB Front Render](https://raw.githubusercontent.com/sean44104/PhoZL/main/Images/image1.png)
